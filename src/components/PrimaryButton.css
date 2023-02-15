@@ -1,0 +1,9 @@
+.btn {
+  all: unset;
+  cursor: pointer;
+  border: 1px solid pink;
+  padding: 5px;
+  border-radius: 2px;
+  color: blue;
+  background-color: lightblue;
+}
